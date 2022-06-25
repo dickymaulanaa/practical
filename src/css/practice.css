@@ -1,0 +1,72 @@
+.container-web {
+	width: 100vw;
+	background-color: rebeccapurple;
+	height: 100vh;
+}
+.navbarr {
+	height: 10vh;
+	background-color: rgb(255, 255, 255);
+}
+.navbar-0 {
+	border-right: 2px solid rgb(179, 175, 175);
+}
+.navbar-0 img{
+     width: 100px;
+}
+.labelNav{
+     color:rgb(9, 241, 86) ;
+     font-size: 16px;
+     font-weight: 700;
+}
+.hintNav{
+     color: grey;
+     font-size: 13px;
+     font-weight: 500;
+}
+.boxFormDetox{
+     width: 100%;
+     height: 40vh;
+     position: absolute;
+}
+.formDetox{
+     width: 50vw;
+     height: auto;
+}
+.header-1 {
+	height: 30vh;
+	background-color: orange;
+}
+.backgorundForm {
+	background-size: cover;
+	height: 60vh;
+	background-image: url("https://storage.needpix.com/rsynced_images/wood-2879254_1280.jpg");
+}
+.labelForm{
+     font-size: 26px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: bold;
+     color: rgb(174, 177, 175);
+     background-color: aliceblue;
+     height: 23vh;
+     border-top-left-radius: 8px;
+     border-top-right-radius: 8px;
+}
+.isiForm{
+     height: auto;
+     background-color: rgb(230, 230, 230);
+     border-bottom-left-radius: 8px;
+     border-bottom-right-radius: 8px;
+
+}
+.btn-form{
+     background-color: rgb(52, 168, 52);
+     color: white;
+     font-weight: 600;
+     border: 1px solid green;
+     border-radius: 5px;
+     width: 150px;
+     height: 40px;
+}
+.fas{
+     color:rgb(9, 241, 86) ;
+}

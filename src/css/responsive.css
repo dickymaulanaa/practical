@@ -1,0 +1,18 @@
+.box-1{
+     background-color: grey;
+     padding: 10px;
+     margin: 20px;
+
+}
+h1{
+     margin:0;
+}
+.isi{
+     display: flex;
+}
+
+@media (max-width : 560px){
+     .isi{
+          display: grid;
+     }
+}
